@@ -1,0 +1,16 @@
+# ALL USER CREDENTIALS 
+
+#SUPERUSER
+NAME: network
+PASSWORD: network123
+
+#CUSTOMER
+NAME: customer
+PASSWORD: network123
+
+#DELIVERY CREWS
+1. NAME: dc
+PASSWORD: network123
+
+2. NAME: dc2
+PASSWORD: network123
